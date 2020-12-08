@@ -1,0 +1,1 @@
+[{"shop": "samsung", "product": "s20", "price": 75000}, {"shop": "xiaomi", "product": "mi20", "price": 65000}]
